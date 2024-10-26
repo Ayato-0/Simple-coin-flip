@@ -29,7 +29,7 @@ int main()
       
       Sleep(1100);
 
-         num = (rand() % 99) + 1;
+         num = (rand() % 100) + 1;
 
          if (num < 51)
          {
